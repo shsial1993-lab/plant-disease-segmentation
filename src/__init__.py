@@ -1,0 +1,1 @@
+"""Plant disease segmentation baseline."""
